@@ -9,7 +9,9 @@ import cucumber.api.java.en.Then;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+    Test if build trigger after commit
+*/
 
 public class LoginStep extends BaseUtil{
 
